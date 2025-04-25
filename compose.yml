@@ -1,7 +1,7 @@
 services:
   src:
     image: jualga/docker_calc:v1
-    container_name: contenedorMiApp
+    container_name: contenedorDockerCalc
     ports:
       - "8088:80"
     
