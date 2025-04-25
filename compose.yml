@@ -1,0 +1,7 @@
+services:
+  php:
+    image: jualga/docker_calc:v1
+    container_name: contenedorMiApp
+    ports:
+      - "8088:80"
+    
