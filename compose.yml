@@ -1,5 +1,5 @@
 services:
-  php:
+  src:
     image: jualga/docker_calc:v1
     container_name: contenedorMiApp
     ports:
